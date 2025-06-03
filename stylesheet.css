@@ -1,0 +1,110 @@
+@font-face {
+    font-family: 'Blood Crow';
+    src: url('BloodCrow.woff2') format('woff2'),
+        url('BloodCrow.woff') format('woff'),
+        url('BloodCrow.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Blood Crow Condensed';
+    src: url('BloodCrowCondensedItalic.woff2') format('woff2'),
+        url('BloodCrowCondensedItalic.woff') format('woff'),
+        url('BloodCrowCondensedItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Blood Crow Condensed';
+    src: url('BloodCrowCondensed.woff2') format('woff2'),
+        url('BloodCrowCondensed.woff') format('woff'),
+        url('BloodCrowCondensed.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Blood Crow Expanded';
+    src: url('BloodCrowExpanded.woff2') format('woff2'),
+        url('BloodCrowExpanded.woff') format('woff'),
+        url('BloodCrowExpanded.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Blood Crow Expanded';
+    src: url('BloodCrowExpandedItalic.woff2') format('woff2'),
+        url('BloodCrowExpandedItalic.woff') format('woff'),
+        url('BloodCrowExpandedItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Blood Crow';
+    src: url('BloodCrowItalic.woff2') format('woff2'),
+        url('BloodCrowItalic.woff') format('woff'),
+        url('BloodCrowItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Blood Crow Leftalic';
+    src: url('BloodCrowLeftalic.woff2') format('woff2'),
+        url('BloodCrowLeftalic.woff') format('woff'),
+        url('BloodCrowLeftalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Blood Crow Shadow';
+    src: url('BloodCrowShadow.woff2') format('woff2'),
+        url('BloodCrowShadow.woff') format('woff'),
+        url('BloodCrowShadow.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Blood Crow Shadow Condensed';
+    src: url('BloodCrowShadowCondensed.woff2') format('woff2'),
+        url('BloodCrowShadowCondensed.woff') format('woff'),
+        url('BloodCrowShadowCondensed.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Blood Crow Shadow Condensed';
+    src: url('BloodCrowShadowCondensedItalic.woff2') format('woff2'),
+        url('BloodCrowShadowCondensedItalic.woff') format('woff'),
+        url('BloodCrowShadowCondensedItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Blood Crow Shadow';
+    src: url('BloodCrowShadowItalic.woff2') format('woff2'),
+        url('BloodCrowShadowItalic.woff') format('woff'),
+        url('BloodCrowShadowItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
